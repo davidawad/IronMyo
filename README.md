@@ -13,16 +13,11 @@ This project was meant to be a simulation of an Iron Man Suit. You can move arou
 The Myo will be set up like so.
 ![](http://github.com/davidawad/ironmyo/resources/armbands.jpg)
 
-You will want to have your computer set up with the oculus rift and the armbands something like this.
 
-![](http://github.com/davidawad/ironmyo/resources/Oculus_setup.jpg)
 
-This image isn't exactly the way it should be, as we had to use a USB hub as well as a thunderbolt adapter in order to get the game to work properly on a macbook. 
+![](https://raw.githubusercontent.com/DavidAwad/IronMyo/master/resources/Oculus_setup.jpg)
 
 
 
-![](http://www.google.com/imgres?imgurl=http://blog.worldfishcenter.org/wp-content/uploads/2014/02/bloomberg-logo.jpg&imgrefurl=http://blog.worldfishcenter.org/2014/02/bloomberg-philanthropies-have-placed-an-interesting-bet/bloomberg-logo/&h=438&w=1523&tbnid=691l7074nthfEM:&zoom=1&docid=tdwbQXCvoTF-AM&ei=s--7VPD6N8TnsASXzIHwDg&tbm=isch&ved=0CDQQMygBMAE)
 
-
-### David Awad, Sakib Jalal, and Alec Huang
-
+![]()
